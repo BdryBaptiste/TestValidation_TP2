@@ -1,3 +1,4 @@
+using Core;
 using Xunit;
 
 namespace SimplifiedTennisGame.Tester
