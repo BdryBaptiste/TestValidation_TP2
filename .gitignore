@@ -144,3 +144,5 @@ SImplifiedTennisGame/.lutignore
 *.lutconfig
 
 *.sln
+
+SimplifiedBowlingGame/.vs/
