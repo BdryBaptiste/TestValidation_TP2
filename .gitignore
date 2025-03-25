@@ -131,3 +131,16 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+*.ncrunchsolution
+
+*.ncrunchproject
+
+*.csproj
+
+SImplifiedTennisGame/.vs/
+
+SImplifiedTennisGame/.lutignore
+
+*.lutconfig
+
+*.sln
